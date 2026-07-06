@@ -1,0 +1,22 @@
+*.iml
+.DS_Store
+.gradle/
+.kotlin/
+.idea/
+.codex/
+build/
+/captures/
+/.externalNativeBuild/
+/.cxx/
+/local.properties
+
+# Python
+__pycache__/
+/workmanager-auto-flow/
+*.py[cod]
+.python-version
+.venv/
+venv/
+
+# Logs
+*.log

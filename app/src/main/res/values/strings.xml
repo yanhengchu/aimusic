@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">aimusic</string>
+    <string name="workmanager_demo_title">WorkManager 功能测试</string>
+    <string name="workmanager_stage_idle">当前测试阶段：待命</string>
+    <string name="workmanager_stage_idle_desc">手动启动仅展示测试页；脚本传入命令后会进入对应测试阶段。</string>
+    <string name="workmanager_stage_startup">当前测试阶段：启动阶段</string>
+    <string name="workmanager_stage_startup_desc">启动阶段：亮屏、解锁、启动应用执行创建周期任务</string>
+    <string name="workmanager_stage_foreground">当前测试阶段：阶段一</string>
+    <string name="workmanager_stage_foreground_desc">阶段一：应用留在前台，按间隔做状态采样</string>
+    <string name="workmanager_stage_cleanup">当前测试阶段：结束阶段</string>
+    <string name="workmanager_stage_cleanup_desc">结束阶段：启动应用执行清理任务，并在任务结束后完成进程收尾。</string>
+    <string name="appId">7</string>
+    <string name="music_vcode_module_id">A666</string>
+    <string name="enter_message_pms_phone_des">用于内容服务定向推送、铃声制作、音频播放、支付服务。</string>
+    <string name="enter_message_pms_record_des">用于听歌识曲服务。</string>
+    <string name="enter_message_pms_storage_des">用于播放缓存歌曲、制作铃声、保存封面、检测更新与上传。</string>
+    <string name="enter_message_pms_camera_des">用于头像上传、歌词海报制作。</string>
+    <string name="enter_message_pms_location_des">用于基于地理位置的广播、服务推送。</string>
+    <string name="bluetooth_connect_desc">用于发现和连接附近的蓝牙设备。</string>
+    <string name="uninstall_dialog_prompt_content">“音乐”是 OriginOS 系统应用，提供在线音乐播放、本地音乐播放及铃声制作等服务。卸载后将影响正常使用。</string>
+</resources>
